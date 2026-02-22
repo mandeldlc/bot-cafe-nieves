@@ -1,6 +1,6 @@
 # 🚀 YouTube Automation Bot: Café con Nieves
 
-Este proyecto automatiza la gestión de transmisiones en vivo para el canal de YouTube de mi padre, optimizando la programación diaria y la creación de miniaturas.
+Este proyecto automatiza la gestión de transmisiones en vivo para el canal de YouTube de mi padre, optimizando la programación diaria y uso de la misma miniatura identificativa.
 
 ## 🛠️ Tecnologías
 * **Lenguaje:** Python 3.14.3

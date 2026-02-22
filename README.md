@@ -9,4 +9,4 @@ Este proyecto automatiza la gestión de transmisiones en vivo para el canal de Y
 * **Control de Versiones:** Git & GitHub.
 
 ## 📈 Impacto
-Automatización del flujo de trabajo de streaming, reduciendo el tiempo de configuración manual de 15 minutos a 0 segundos diarios.
+Automatización del flujo de trabajo de streaming, reduciendo el tiempo de configuración manual diaria.
